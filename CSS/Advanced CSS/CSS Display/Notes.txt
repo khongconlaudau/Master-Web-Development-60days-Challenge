@@ -1,0 +1,8 @@
+   **** Display Property ****
+
+there are several ways of display property in CSS
+
+1. display: block;     takes the whole block
+2. display: inline;    can not change the width and height, they are depends on the content text
+3. display: inline-block;
+4. display: none;      makes the element invisible
