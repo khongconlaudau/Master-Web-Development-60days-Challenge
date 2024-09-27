@@ -1,0 +1,5 @@
+- Flex-sizing use to re-size the items in the flex box
+
+Rule: content-width< width < flex-basis < min-width/max-width
+
+By default: shrink is set to 1 and grow is set to 0

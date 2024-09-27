@@ -1,0 +1,17 @@
+/*media queries used for creating responsive websites*/
+
+
+/*used for any screen >= 600px width*/
+@media (min-width: 600px) {
+    /*CSS Style*/
+}
+/*used for any screen <= 1000px width*/
+@media (max-width: 1000px) {
+    /*CSS Style*/
+}
+
+ /*COMBINED*/
+/*used for any 600px <= screen width <= 1000px*/
+@media (min-width: 600px) and (max-width: 1000px) {
+    /*CSS style*/
+}

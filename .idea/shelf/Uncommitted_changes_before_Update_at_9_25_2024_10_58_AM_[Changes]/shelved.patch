@@ -1,0 +1,78 @@
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1727275231629)
++++ b/.idea/.gitignore	(date 1727275231629)
+@@ -0,0 +1,5 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Editor-based HTTP Client requests
++/httpRequests/
+Index: CSS/Advanced CSS/CSS Float/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/CSS/Advanced CSS/CSS Float/index.html b/CSS/Advanced CSS/CSS Float/index.html
+new file mode 100644
+--- /dev/null	(date 1727275966348)
++++ b/CSS/Advanced CSS/CSS Float/index.html	(date 1727275966348)
+@@ -0,0 +1,21 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <meta name="viewport" content="width=device-width, initial-scale=1.0">
++    <title>Float Control</title>
++    <link rel="stylesheet" href="style.css">
++</head>
++<body>
++    <!--   float = allows other elements to flow arount it  -->
++    <div>
++        <img src="./pokemon.png" alt="Pokemon Ballp" id="img1">
++    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores suscipit ipsa, nulla fuga unde adipisci fugiat veritatis dolorum deleniti ipsam mollitia assumenda. Illum adipisci, sed voluptatem at necessitatibus quisquam aliquid.</p>
++    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laudantium officiis laboriosam sapiente eum cupiditate molestias blanditiis nobis explicabo veritatis quam, autem, earum est, quos itaque. Ipsum, animi? Atque, expedita excepturi.</p>
++    <img src="./pikachu.png" alt="Pikachu" id="img2">
++    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor voluptatum magnam atque debitis consectetur tempore blanditiis sed, quibusdam maxime vero consequuntur exercitationem fuga dignissimos autem nemo reiciendis cum dolore nesciunt!</p>
++    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit iste architecto laborum officia, atque est! Ipsa, ut impedit, quisquam commodi ducimus quis, nemo illum ex voluptatibus aspernatur iusto ratione dicta.</p>
++    </div>
++    
++</body>
++</html>
+\ No newline at end of file
+Index: index.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/index.js b/index.js
+new file mode 100644
+--- /dev/null	(date 1727275229244)
++++ b/index.js	(date 1727275229244)
+@@ -0,0 +1,1 @@
++console.log('Happy developing ✨')
+Index: package.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/package.json b/package.json
+new file mode 100644
+--- /dev/null	(date 1727275233584)
++++ b/package.json	(date 1727275233584)
+@@ -0,0 +1,10 @@
++{
++  "name": "Master Web Development",
++  "version": "1.0.0",
++  "description": "",
++  "main": "index.js",
++  "scripts": {
++    "test": "echo \"Error: no test specified\" && exit 1"
++  },
++  "private": true
++}

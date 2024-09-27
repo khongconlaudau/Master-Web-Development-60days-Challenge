@@ -1,0 +1,53 @@
+1. Fixed size: Does not reponsive (Eventhough, the size is: 1rem 2rem)
+Rem units are fixed in relation to the root font size: If you define grid rows and columns in rem, the layout will scale based on the root font size but won't automatically adjust to different screen sizes like fr (fractional units) or percentages.
+
+.grid-container {
+    display: flex;
+    grid-template-columns: 400px 800px;
+    grid-template-rows: 100px 200px
+}
+
+
+
+
+
+2. Auto size: gives us a little bit of reponsiveness
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 200px auto;
+    grid-template-rows: 100px auto;
+}
+
+-auto in this particular situation means  the second column set auto will try and take up 100% of that width.
+- auto row in this particular situation means the second row will try to fit in the content
+
+
+
+3. Fractional size: makes the rows and columns be reponsive
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 1fr 2fr;
+}
+
+.grid-container {
+    display: flex;
+    grid-template-columns: repeat (8, 1fr);
+    grid-template-rows: repeat (8, 1fr);
+    grid-auto-rows: 2fr;
+
+    ** if any rows being created in the future will have the default of height (2fr)
+}
+
+
+4. minmax size: make the browser reponsive in a range
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 200px minmax(400px, 800px)
+    grid-template-rows: 200px 400px
+}
+
+in this situation the second column will be reponsive if the web browser in range 600px to 1000px

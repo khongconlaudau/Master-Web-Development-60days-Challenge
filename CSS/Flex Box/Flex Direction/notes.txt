@@ -1,0 +1,10 @@
+We can change the direction of the elements inside the container using "flex-direction"
+
+
+--flex-direction: row;      align elements in horizontal 
+
+--flex-direction: column; 
+align elements in vertical
+
+--flex-basis: 100px;
+change the dimension of the elements if horizontal changes the width, if vertical changes the height.

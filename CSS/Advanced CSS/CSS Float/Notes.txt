@@ -1,0 +1,7 @@
+clear property:
+
+-The clear property is used to specify which sides of an element should not allow floating elements.
+
+-Possible values are none, left, right, and both.
+
+-When set to "both", it prevents floating elements from appearing on either the left or right side of the element.

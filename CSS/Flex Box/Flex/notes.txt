@@ -1,0 +1,10 @@
+ With Flexbox all we need to do is to wrap your divs inside the container and set the display to Flexbox 
+ Flexbox: displays the elements in hozirontal like a table
+
+ .container{
+    display: flex;                      means block flex
+    gap: 1rem;
+ }
+
+    * We also have "inline-flex"
+ **** When we use flexbox all the previous display will be ingored and be apply by flexbox. And the width of the box will normally based on the content size
