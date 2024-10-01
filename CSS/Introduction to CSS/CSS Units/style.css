@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+html{
+    font-size: 2em;
+}
+p{
+    font-size: 4rem;
+}
+
+div{
+    background-color: teal;
+    width: 50vw;
+    height: 50vh;
+}

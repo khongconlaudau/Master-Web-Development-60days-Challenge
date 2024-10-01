@@ -1,0 +1,43 @@
+CSS flexible box layout enables you to:
+1.Vertically center a block of content inside its parent.
+
+2.Make all the children of a container take up an equal amount of the available width/height, regardless of how much width/height is available.
+
+3.Make all columns in a multiple-column layout adopt the same height even if they contain a different amount of content.
+
+Flexbox features may be the perfect solution for your one dimensional layout needs.
+
+
+
+
+Justify-content:
+
+1.The justify-content property is used to align the items on the main axis,
+ the direction in which flex-direction has set the flow
+
+Align-items:
+
+1.The align-items property align all the flex items on the cross axis.
+
+2.Scope: Affects individual flex items within a single flex container line (or row/column).
+
+3.When to use: Use align-items to align items along the cross axis when you have a single line of flex items or you want to align each individual item within its flex line.
+
+
+
+Align-content
+
+1.Purpose: Aligns flex lines (not individual items) along the cross axis when there is extra space in the flex container.
+This property only works when the flex container has multiple lines of items **(i.e., when flex-wrap: wrap is used)**.
+2.Scope: Affects the entire group of flex lines inside the container, not the individual items within those lines.
+3.When to use: Use align-content when you have a multi-line flex container, and you want to control how the flex lines (the rows or columns) align within the container when there is extra space.
+
+**This can be confusing, but align-content determines the spacing between lines,
+ while align-items determines how the items as a whole are aligned within the container.
+ When there is only one line, align-content has no effect.
+
+Flex-grow:
+
+1.The flex-grow CSS property sets the flex grow factor,
+which specifies how much of the flex container's positive free space,
+if any, should be assigned to the flex item's main size.

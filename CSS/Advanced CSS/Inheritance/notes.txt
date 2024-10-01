@@ -1,0 +1,6 @@
+1. Not everything is inherited by parent (Eg: Layout)
+
+2. Things can be inherited (eg: typography)
+
+3. We also can use "inherit" keywords for properties that don't get inherited by default
+    (NOT RECOMMENDED)

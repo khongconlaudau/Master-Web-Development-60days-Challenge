@@ -1,0 +1,12 @@
+div{
+    height:50vh;
+    background: linear-gradient(#00B9FF, white);
+    display: inline-block;
+    width: 50vw;
+}
+
+span{
+    background: radial-gradient(#00B9FF, white);
+    display: block;
+    height: 50vh;
+}

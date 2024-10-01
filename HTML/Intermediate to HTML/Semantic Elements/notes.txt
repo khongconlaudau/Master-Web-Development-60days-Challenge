@@ -1,0 +1,7 @@
+What are Semantic Elements?
+
+- A semantic element clearly describes its meaning to both the browser and the developer
+
+- Egs of nons-semantic elements: <div> and <span> - Tells nothing about its content.
+
+- Egs of semantic elements: <form>, <table>, <article>, <footer>, <header>, <main>.... - clearly defines its content.

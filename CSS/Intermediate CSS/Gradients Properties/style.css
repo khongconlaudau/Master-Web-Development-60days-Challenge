@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+}
+
+div{
+    background: radial-gradient(#00B9FF , white);
+    height: 100vh;
+}
+
+
+/*.box{*/
+/*    height: 100vh;*/
+/*    background-image: linear-gradient(to top,rgba(0, 208, 255, 0.66), rgba(255, 255, 255, 0.58), #4834d4) , url("https://images.unsplash.com/photo-1727402881307-9b2d1cd53ca5?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");*/
+/*    background-size: cover;*/
+/*    background-position: center;*/
+/*    background-repeat: no-repeat;*/
+/*    background-attachment: fixed;*/
+/*}*/

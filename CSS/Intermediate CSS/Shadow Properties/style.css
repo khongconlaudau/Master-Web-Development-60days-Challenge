@@ -1,0 +1,18 @@
+/*x,y,blurness,color*/
+body{
+    margin-left: 0;
+    background-color: #00B9FF;
+}
+
+
+div{
+    width: 200px;
+    height: 200px;
+    background-color: skyblue;
+    box-shadow: 5px 5px 3px white ;
+}
+
+h1{
+    text-shadow: 2px 2px 2px white;
+}
+

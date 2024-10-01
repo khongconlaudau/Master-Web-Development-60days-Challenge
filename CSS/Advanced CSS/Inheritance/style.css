@@ -1,0 +1,17 @@
+.parent{
+    font-size: 3rem;
+    font-family: cursive;
+    font-weight: bold;
+    position: relative;
+    width: 20vw;
+    height: 20vw;
+    background-color: skyblue;
+}
+
+.child{
+    position: absolute;
+    left: 20%;
+    background-color: inherit;
+    width: inherit;
+    height: inherit;
+}

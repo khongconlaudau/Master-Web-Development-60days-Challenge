@@ -1,0 +1,6 @@
+- The "grid-line" can be either "horizontal" or "vertical".It is use to
+separate items in the grid
+
+- A "grid-track" is the space between two adjacent grid lines
+
+- A "grid-area" is one or more grid cells that make up a rectangular area on the grid

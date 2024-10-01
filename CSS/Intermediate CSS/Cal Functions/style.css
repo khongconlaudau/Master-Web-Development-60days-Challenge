@@ -1,0 +1,19 @@
+body{
+    margin:0;
+}
+
+.container{
+    display:flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.s{
+    background-color: skyblue;
+    width: calc(200px + 100px);
+    height: calc(200px + 100px);
+    margin: calc(20px * 2);
+    padding: calc(200px / 10);
+    border-radius: 15px calc(15px / 10) 4px 2px;
+}
