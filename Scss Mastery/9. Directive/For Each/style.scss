@@ -1,0 +1,8 @@
+$list: ((normal, bold, 10px), (emphasis, italic, 20px));
+
+@each $name, $style, $size in $list{
+    .#{$name}{
+        font-weight: $style;
+        font-size: $size;
+    }
+}

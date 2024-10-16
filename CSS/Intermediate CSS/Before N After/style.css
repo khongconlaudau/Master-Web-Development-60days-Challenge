@@ -1,0 +1,22 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+p:before{
+    content: "Hello";
+    background-color: red;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+p:after{
+    content: '\2600';
+    background-color: red;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}

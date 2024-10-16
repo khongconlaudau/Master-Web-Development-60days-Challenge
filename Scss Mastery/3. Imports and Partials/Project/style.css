@@ -1,0 +1,130 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  font-family: sans-serif;
+  position: fixed;
+  width: 100vw;
+  background-color: white;
+  height: 7vh;
+}
+nav .logo-container {
+  margin-left: 40px;
+}
+nav ul {
+  margin-right: 40px;
+}
+nav li {
+  display: inline;
+  margin-left: 30px;
+}
+nav a {
+  text-decoration: none;
+  color: black;
+}
+
+header {
+  background: url(https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80) no-repeat center/cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+header h1 {
+  text-transform: uppercase;
+  font-size: 3rem;
+  color: white;
+}
+header p {
+  max-width: 600px;
+  margin: 10px;
+}
+header button {
+  border: none;
+  background-color: white;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.card {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+.card .card-content {
+  width: 400px;
+  height: 300px;
+  padding: 20px;
+  margin: 0 6rem;
+}
+.card .card-img {
+  height: 300px;
+}
+.card h1 {
+  font-size: 3rem;
+  font-family: serif;
+}
+.card p {
+  margin: 20px 0;
+}
+.card a {
+  text-decoration: none;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+}
+.card a:hover {
+  background-color: skyblue;
+}
+
+.gallery {
+  margin-top: 6rem;
+}
+.gallery h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-family: sans-serif;
+}
+.gallery .images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-items: center;
+}
+.gallery .gallery-img {
+  height: 300px;
+  margin: 20px;
+}
+
+footer {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+footer input {
+  padding: 10px 20px;
+  margin-bottom: 20px;
+}
+footer textarea {
+  padding: 20px;
+  width: 380px;
+  margin-bottom: 20px;
+}
+footer a {
+  display: inline;
+  text-decoration: none;
+  color: white;
+  background-color: black;
+  padding: 10px 20px;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}/*# sourceMappingURL=style.css.map */

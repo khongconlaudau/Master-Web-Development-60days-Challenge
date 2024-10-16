@@ -1,0 +1,69 @@
+.box-1 {
+  width: 100px;
+  background-color: rgb(57, 201, 222);
+  margin-bottom: 1px;
+  padding: 5px;
+}
+
+.box-2 {
+  width: 200px;
+  background-color: rgb(50, 221, 51);
+  margin-bottom: 2px;
+  padding: 10px;
+}
+
+.box-3 {
+  width: 300px;
+  background-color: rgb(106, 106, 14);
+  margin-bottom: 3px;
+  padding: 15px;
+}
+
+.box-4 {
+  width: 400px;
+  background-color: rgb(184, 225, 185);
+  margin-bottom: 4px;
+  padding: 20px;
+}
+
+.box-5 {
+  width: 500px;
+  background-color: rgb(12, 8, 2);
+  margin-bottom: 5px;
+  padding: 25px;
+}
+
+.box-6 {
+  width: 600px;
+  background-color: rgb(35, 116, 76);
+  margin-bottom: 6px;
+  padding: 30px;
+}
+
+.box-7 {
+  width: 700px;
+  background-color: rgb(113, 196, 208);
+  margin-bottom: 7px;
+  padding: 35px;
+}
+
+.box-8 {
+  width: 800px;
+  background-color: rgb(252, 57, 131);
+  margin-bottom: 8px;
+  padding: 40px;
+}
+
+.box-9 {
+  width: 900px;
+  background-color: rgb(117, 196, 143);
+  margin-bottom: 9px;
+  padding: 45px;
+}
+
+.box-10 {
+  width: 1000px;
+  background-color: rgb(41, 39, 209);
+  margin-bottom: 10px;
+  padding: 50px;
+}/*# sourceMappingURL=style.css.map */

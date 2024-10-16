@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container > .child {
+    width: 200px;
+    height: 200px;
+    background-color: skyblue;
+    /*transform: translateX(200px);*/
+    /*transform: translateY(-200px);*/
+    /*transform: translate(200px, -200px);  x,y*/
+    /*transform: rotate(20deg);*/
+    /*transform: scale(2, 1); x,y*/
+    /*transform: skew(30deg);*/
+
+    /*Animation here*/
+    animation-name: InAndOut;
+    animation-duration: 4s;
+    animation-iteration-count: infinite; /* count how many time to run the animation */
+    animation-timing-function: ease-in;
+}
+
+/*Transition*/
+.container > a {
+    text-decoration: none;
+    color: saddlebrown;
+    border: 2px solid black;
+    width: 80px;
+    text-align: center;
+
+    /*Transition here:*/
+    transition-property: all; /* can define what transitions want to do color, background color */
+    transition-duration: 1s;
+    transition-timing-function: ease;
+}
+
+.container > a:hover {
+    background-color: saddlebrown;
+    color: white;
+}
+
+/*Animation*/
+@keyframes InAndOut {
+    from {
+        transform: rotateY(180deg);
+        opacity: 0;
+        
+    }
+
+    to {
+        transform: rotateY(0deg);
+        opacity: 1;
+    }
+
+    to {
+        transform: skew(34deg);
+    }
+}
+

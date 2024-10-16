@@ -1,0 +1,40 @@
+@mixin styles($value){
+    width: $value + px;
+    height: $value + px;
+
+    @if($value > 0 and $value < 20){
+        color: orange;
+    }@else if ($value <= 50){
+        color: red;
+    }@else {
+        color: skyblue
+    }
+}
+
+.selector{
+    @include styles(91);
+}
+
+
+@function math($operator, $n1, $n2){
+    @if($operator == "add"){
+        @return $n1 + $n2;
+    }
+    @else if ($operator == "substract"){
+        @return $n1 - $n2;
+    }
+    @else if ($operator == "multiple"){
+        @return $n1 * $n2;
+    }
+    @else if ($operator == "devide"){
+        @return $n1 / $n2;
+    }
+    @else if ($operator == "mod"){
+        @return $n1 % $n2;
+    }
+}
+
+
+.selector{
+    width: math(mod,20 ,20 );
+}

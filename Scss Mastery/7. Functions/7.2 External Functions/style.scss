@@ -1,0 +1,15 @@
+@function sum($n1, $n2){
+    @return $n1 + $n2;
+}
+
+.selector{
+    width: sum(10px,10px);
+}
+
+@function randColor(){
+    @return rgb(random(255), random(255), random(255));
+}
+
+.selector{
+    color: randColor();
+}

@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fdf524b-b819-487b-afab-96b57e756e88" name="Changes" comment="Day 4">
+    <list default="true" id="1fdf524b-b819-487b-afab-96b57e756e88" name="Changes" comment="Day 5">
       <change afterPath="$PROJECT_DIR$/CSS/Intermediate CSS/Background Properties/style.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CSS/Intermediate CSS/Combining CSS Selectors/7.1 Combining Selectors/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CSS/Intermediate CSS/Combining CSS Selectors/7.1 Combining Selectors/solution.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CSS/Intermediate CSS/Combining CSS Selectors/7.1 Combining Selectors/style.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CSS/Intermediate CSS/Combining CSS Selectors/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Intermediate CSS/Is Selectors/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CSS/Intermediate CSS/Positioning/7.2 CSS Positioning/goal.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CSS/Intermediate CSS/Positioning/7.2 CSS Positioning/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CSS/Intermediate CSS/Positioning/7.2 CSS Positioning/solution.html" afterDir="false" />
@@ -39,60 +40,14 @@
       <change afterPath="$PROJECT_DIR$/CSS/Introduction to CSS/5.3 CSS Selectors/solution/solution-style.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CSS/Introduction to CSS/5.3 CSS Selectors/solution/solution.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CSS/Introduction to CSS/5.3 CSS Selectors/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Advanced JS/Map N Filter/Filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/DataStructure/Map/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/DataStructure/Set/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Intermidate JS/Object/Object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Intermidate JS/Template Literals/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/My Resume By HTML And CSS/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Advanced CSS/8.4 Web Design Agency Project/assets/images/beautiful.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Layout/8.4 Web Design Agency Project/assets/images/beautiful.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Advanced CSS/8.4 Web Design Agency Project/assets/images/construction.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Layout/8.4 Web Design Agency Project/assets/images/construction.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Advanced CSS/8.4 Web Design Agency Project/assets/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Layout/8.4 Web Design Agency Project/assets/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Advanced CSS/8.4 Web Design Agency Project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Layout/8.4 Web Design Agency Project/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Advanced CSS/8.4 Web Design Agency Project/solution.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Layout/8.4 Web Design Agency Project/solution.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Advanced CSS/8.4 Web Design Agency Project/solution.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Layout/8.4 Web Design Agency Project/solution.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Advanced CSS/8.4 Web Design Agency Project/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Layout/8.4 Web Design Agency Project/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Advanced CSS/CSS Float/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Layout/CSS Float/Notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Flex Box/Exercise/goal-large.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Flex Box/Exercise/goal-large.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Flex Box/Exercise/goal-small.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Flex Box/Exercise/goal-small.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Flex Box/Exercise/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Flex Box/Exercise/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Flex Box/Exercise/solution.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Flex Box/Exercise/solution.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Flex Box/Flex Direction/9.1 Flex Direction/goal.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Flex Box/Flex Direction/9.1 Flex Direction/goal.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Flex Box/Flex Direction/9.1 Flex Direction/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Flex Box/Flex Direction/9.1 Flex Direction/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Flex Box/Flex Direction/9.1 Flex Direction/solution.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Flex Box/Flex Direction/9.1 Flex Direction/solution.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Flex Box/Flex Direction/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Flex Box/Flex Direction/notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Flex Box/Flex Layout/Source.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Flex Box/Flex Layout/Source.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Flex Box/Flex-Sizing/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Flex Box/Flex-Sizing/Notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Flex Box/Flex/9.0 Display Flex/absolute-position.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Flex Box/Flex/9.0 Display Flex/absolute-position.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Flex Box/Flex/9.0 Display Flex/flex.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Flex Box/Flex/9.0 Display Flex/flex.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Flex Box/Flex/9.0 Display Flex/float.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Flex Box/Flex/9.0 Display Flex/float.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Flex Box/Flex/9.0 Display Flex/goal.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Flex Box/Flex/9.0 Display Flex/goal.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Flex Box/Flex/9.0 Display Flex/html-table.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Flex Box/Flex/9.0 Display Flex/html-table.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Flex Box/Flex/9.0 Display Flex/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Flex Box/Flex/9.0 Display Flex/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Flex Box/Flex/9.0 Display Flex/inline-block.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Flex Box/Flex/9.0 Display Flex/inline-block.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Flex Box/Flex/9.0 Display Flex/solution.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Flex Box/Flex/9.0 Display Flex/solution.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Flex Box/Flex/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Flex Box/Flex/notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/10.0 Display Grid/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/10.0 Display Grid/example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/10.0 Display Grid/goal.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/10.0 Display Grid/goal.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/10.0 Display Grid/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/10.0 Display Grid/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/10.0 Display Grid/solution.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/10.0 Display Grid/solution.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/10.2 Grid Placement/demo1.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/10.2 Grid Placement/demo1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/10.2 Grid Placement/demo2.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/10.2 Grid Placement/demo2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/10.2 Grid Placement/demo3.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/10.2 Grid Placement/demo3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/10.2 Grid Placement/demo4.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/10.2 Grid Placement/demo4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/10.2 Grid Placement/exercise1.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/10.2 Grid Placement/exercise1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/10.2 Grid Placement/exercise2.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/10.2 Grid Placement/exercise2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/10.2 Grid Placement/exercise3.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/10.2 Grid Placement/exercise3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/10.2 Grid Placement/goal1.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/10.2 Grid Placement/goal1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/10.2 Grid Placement/goal2.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/10.2 Grid Placement/goal2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/10.2 Grid Placement/goal3.png" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/10.2 Grid Placement/goal3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/10.2 Grid Placement/solution1.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/10.2 Grid Placement/solution1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/10.2 Grid Placement/solution2.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/10.2 Grid Placement/solution2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/10.2 Grid Placement/solution3.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/10.2 Grid Placement/solution3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/Grid Sizing/10.1 Grid Sizing/auto-size.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/Grid Sizing/10.1 Grid Sizing/auto-size.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/Grid Sizing/10.1 Grid Sizing/fixed-size.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/Grid Sizing/10.1 Grid Sizing/fixed-size.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/Grid Sizing/10.1 Grid Sizing/fractional-size.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/Grid Sizing/10.1 Grid Sizing/fractional-size.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/Grid Sizing/10.1 Grid Sizing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/Grid Sizing/10.1 Grid Sizing/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/Grid Sizing/10.1 Grid Sizing/minmax-size.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/Grid Sizing/10.1 Grid Sizing/minmax-size.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/Grid Sizing/10.1 Grid Sizing/repeat.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/Grid Sizing/10.1 Grid Sizing/repeat.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/Grid Sizing/10.1 Grid Sizing/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/Grid Sizing/10.1 Grid Sizing/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/Grid Sizing/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/Grid Sizing/notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Grid/Why Grid.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Grid/Why Grid.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/Advanced CSS/Media Queries/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Advanced CSS/Media Queries/Style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,10 +58,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -133,6 +92,9 @@
     &quot;accountId&quot;: &quot;fc6e88de-c1ea-4cad-86a0-5ee612f5fcf0&quot;
   }
 }</component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -149,9 +111,19 @@
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Array.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Arrow Function.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.CallbackFunction.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Filter.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Function.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.HashMap.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Method.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Object.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.app.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.map.js.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/16133/WebstormProjects/Master Web Development/HTML/Project&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/16133/WebstormProjects/Master Web Development/Scss Mastery&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -159,7 +131,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_interpreter_path&quot;: &quot;C:/Users/16133/AppData/Roaming/JetBrains/WebStorm2024.2/node/versions/20.17.0/node&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;watcher.settings&quot;,
     &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.2.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -171,9 +143,11 @@
       <recent name="C:\Users\16133\WebstormProjects\Master Web Development\CSS\Advanced CSS" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\16133\WebstormProjects\Master Web Development\JavaScript\DOM\Starter\2. Accessing the Dom\live-coding" />
+      <recent name="C:\Users\16133\WebstormProjects\Master Web Development\JavaScript\Advanced JS\Spread Operator" />
+      <recent name="C:\Users\16133\WebstormProjects\Master Web Development\JavaScript\Introduction To JS\Array" />
+      <recent name="C:\Users\16133\WebstormProjects\Master Web Development\JavaScript\Introduction To JS" />
       <recent name="C:\Users\16133\WebstormProjects\Master Web Development\CSS\Advanced CSS\Grid N FlexBox" />
-      <recent name="C:\Users\16133\WebstormProjects\Master Web Development\CSS\Advanced CSS" />
-      <recent name="C:\Users\16133\WebstormProjects\Master Web Development\CSS\Advanced CSS\Layout" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -200,7 +174,33 @@
       <workItem from="1727650841905" duration="4233000" />
       <workItem from="1727705584762" duration="23302000" />
       <workItem from="1727748478384" duration="75000" />
-      <workItem from="1727752606822" duration="711000" />
+      <workItem from="1727752606822" duration="1169000" />
+      <workItem from="1727792182801" duration="7367000" />
+      <workItem from="1727800290155" duration="642000" />
+      <workItem from="1727820713070" duration="5873000" />
+      <workItem from="1727826706959" duration="2399000" />
+      <workItem from="1727832315175" duration="7000" />
+      <workItem from="1727835794439" duration="8530000" />
+      <workItem from="1727877624995" duration="13377000" />
+      <workItem from="1727913138477" duration="8000" />
+      <workItem from="1727926588922" duration="2409000" />
+      <workItem from="1727960494446" duration="1664000" />
+      <workItem from="1728004046440" duration="595000" />
+      <workItem from="1728151676039" duration="663000" />
+      <workItem from="1728233687226" duration="6148000" />
+      <workItem from="1728250631957" duration="954000" />
+      <workItem from="1728263178983" duration="4515000" />
+      <workItem from="1728359526699" duration="807000" />
+      <workItem from="1728401227051" duration="4667000" />
+      <workItem from="1728445196159" duration="5044000" />
+      <workItem from="1728495336414" duration="2812000" />
+      <workItem from="1728527995988" duration="45000" />
+      <workItem from="1728651434509" duration="5813000" />
+      <workItem from="1728666163876" duration="3146000" />
+      <workItem from="1728772801311" duration="594000" />
+      <workItem from="1728927572673" duration="78000" />
+      <workItem from="1728932684839" duration="1757000" />
+      <workItem from="1728935974048" duration="1069000" />
     </task>
     <task id="LOCAL-00001" summary="Day 2 in the progress to master web devlopment">
       <option name="closed" value="true" />
@@ -298,7 +298,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727407110748</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Day 5">
+      <option name="closed" value="true" />
+      <created>1727753719412</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727753719414</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,6 +330,18 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="Day 2" />
     <MESSAGE value="Day 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 4" />
+    <MESSAGE value="Day 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 5" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JavaScript/Introduction To JS/Array/Array.js</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

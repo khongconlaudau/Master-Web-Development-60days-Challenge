@@ -1,0 +1,39 @@
+
+.card {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+
+  .card-content {
+    width: 400px;
+    height: 300px;
+    padding: 20px;
+    margin: 0 6rem;
+  }
+
+  .card-img {
+    height: 300px;
+  }
+
+  h1 {
+    font-size: 3rem;
+    font-family: serif;
+  }
+
+  p {
+    margin: 20px 0;
+  }
+
+  a {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+  }
+
+  a:hover {
+    background-color: skyblue;
+  }
+}
