@@ -1,0 +1,14 @@
+{
+  "name": "Duc Manh Van",
+  "age": 20,
+  "email": "dm@gmail.com",
+  "isStudent": true,
+  "hobbies": [
+    "Music",
+    "Bla..Bla"
+  ],
+  "address": {
+    "country": "VietName",
+    "isABeautifulCountry": true
+  }
+}

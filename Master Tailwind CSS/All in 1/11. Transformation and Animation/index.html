@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Transform & Transition</title>
+  </head>
+  <body class="p-10">
+    <!-- No Transition -->
+
+    <!-- Transition -->
+    <!-- 1. https://tailwindcss.com/docs/transition-property -->
+    <button class="ml-5 p-5 bg-sky-500 hover:bg-blue-900">
+      With Transition
+    </button>
+    <!-- 2. https://tailwindcss.com/docs/transition-duration -->
+    <!-- 3. https://tailwindcss.com/docs/transition-timing-function -->
+    <!-- 4. https://tailwindcss.com/docs/transition-delay -->
+
+    <button
+      class="ml-5 p-5 bg-sky-500 transition hover:bg-blue-900 duration-300 ease-in-out delay-150 hover:text-white"
+    >
+      With Transition
+    </button>
+
+    <button
+      class="ml-5 p-5 bg-sky-500 transition hover:bg-blue-900 duration-300 ease-in-out delay-150 hover:text-white hover:scale-110"
+    >
+      With Transition
+    </button>
+
+    <!-- 5. https://tailwindcss.com/docs/animation -->
+     <div class="bg-lime-300 w-[200px] h-[200px] mt-10 animate-pulse text-center">Spin</div>
+
+    <!-- Transition & Transform -->
+
+    <!-- Animation -->
+  </body>
+</html>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Container & Spacing</title>
+    <style>
+      body {
+        padding: 5rem;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Margin -->
+    <!-- https://tailwindcss.com/docs/margin -->
+    <h3>1. Margin</h3>
+    <p class="bg-yellow-200 m-3">Margin Around All</p>
+    <p class="bg-yellow-300 mt-5">Magin Top</p>
+    <p class="bg-yellow-400 mb-2">Margin Bottom</p>
+    <p class="bg-yellow-300 mx-5">Margin X</p>
+    <p class="bg-yellow-400 my-10">Magin Y</p>
+    <p class="bg-yellow-400 mr-20">Margin Right</p>
+    <p class="bg-yellow-700 ml-10">Margin Left</p>
+
+    <br />
+    <hr />
+    <br />
+    <!-- Arbitrary Spacing -->
+    <h1 class="font-bold text-[2rem]">Arbitrary Spacing</h1>
+    <p class="bg-lime-400 m-[20px]">Arbitrary Margin</p>
+
+    <br>
+    <hr>
+    <br>
+
+    <!-- Padding -->
+    <!-- https://tailwindcss.com/docs/padding -->
+     <h3>3. Padding</h3>
+     <div class="bg-pink-300 p-40">Padding All Arround</div>
+     <div class="bg-pink-400 px-[200px]">Padding X</div>
+     <div class="bg-pink-300 py-5">Padding Y</div>
+
+     <br>
+     <hr>
+     <br>
+    <!-- https://tailwindcss.com/docs/space -->
+    <!-- Space Between X -->
+    <h3>Space Between X</h3>
+    <div class="flex space-x-2">
+        <div class="p-3 bg-sky-400">2</div>
+        <div class="p-3 bg-sky-400">3</div>
+        <div class="p-3 bg-sky-400">4</div>
+    </div>
+    <!-- Space Between Y -->
+     <h3>Space Between Y</h3>
+     <div class="flex flex-col space-y-10">
+        <div class="text-center w-[30px] h-[30px] bg-sky-300">1</div>
+        <div class="text-center w-[30px] h-[30px] bg-sky-300">2</div>
+        <div class="text-center w-[30px] h-[30px] bg-sky-300">3</div>
+     </div>
+  </body>
+</html>

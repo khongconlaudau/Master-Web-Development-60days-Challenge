@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Backgrounds & Shadows</title>
+  </head>
+  <body >
+    <!-- Background Images -->
+    <!-- https://tailwindcss.com/docs/background-image -->
+    <div class="h-screen w-full bg-no-repeat bg-center bg-cover" style="background-image: url('https://images.unsplash.com/photo-1721332149346-00e39ce5c24f?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');"></div>
+
+    
+    <!-- Shadows -->
+    <!-- https://tailwindcss.com/docs/drop-shadow -->
+    <!-- I know we didn't cover flexbox, but it's just for demo purposes -->
+     <div class="flex flex-wrap">
+        <div class="w-[300px] mt-10 ml-4 p-3 shadow-md shadow-indigo-300">Shadow Medium</div>
+      
+        <div class="w-[300px] mt-10 ml-4 p-3 shadow-md shadow-red-300/100">Shadow Medium</div>
+      
+        <div class="w-[300px] mt-10 ml-4 p-3 shadow-inner shadow-red-300/100">Shadow Medium</div>
+
+        
+      
+
+    <!-- Gradients -->
+    <!-- https://tailwindcss.com/docs/gradient-color-stops -->
+     <div class="bg-gradient-to-r from-pink-300 to-sky-500 w-full h-[300px] mt-10"></div>
+     <div class="bg-gradient-to-b from-blue-500 via-cyan-300 to-white-300 w-full h-[300px] mt-10"></div>
+  </body>
+</html>

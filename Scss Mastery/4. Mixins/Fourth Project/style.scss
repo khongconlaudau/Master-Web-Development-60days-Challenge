@@ -1,0 +1,88 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+// Mixins
+@mixin button-styles {
+  padding: 10px 20px;
+  background-color: black;
+  border: none;
+  border-radius: 100px;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+@mixin card-basic-styles {
+  width: 300px;
+  padding: 20px;
+  // background: radial-gradient(to bottom, );
+  background-color: #8ec5fc;
+  background-image: linear-gradient(243deg, #8ec5fc 0%, #e0c3fc 100%);
+  border-radius: 10px;
+  color: white;
+}
+
+@mixin card-content-style {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  font-family: sans-serif;
+  height: 70%;
+}
+
+@mixin cards-style {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.cards {
+  @include cards-style;
+
+  .card {
+    @include card-basic-styles;
+    margin: 10px;
+  }
+
+  .card-content {
+    @include card-content-style;
+  }
+
+  button {
+    @include button-styles;
+  }
+
+  h1 {
+    font-family: sans-serif;
+    font-size: 2rem;
+    margin-bottom: 0;
+  }
+
+  span {
+    font-family: sans-serif;
+    font-size: 1rem;
+  }
+
+  .card-infor {
+    line-height: 25px;
+    width: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+  }
+
+  .card-two {
+    background-image: linear-gradient(0deg, #d9afd9 0%, #97d9e1 100%);
+  }
+
+  card-three {
+    background-color: #74ebd5;
+    background-image: linear-gradient(90deg, #74ebd5 0%, #9face6 100%);
+  }
+}

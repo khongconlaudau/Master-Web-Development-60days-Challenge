@@ -1,0 +1,64 @@
+.selector {
+  padding: max(30px, 60px, 20px, 80px);
+  padding: min(30px, 60px, 20px, 80px);
+  padding: random($limit: 100);
+  padding: unit(10rem);
+  padding: unitless(20);
+}
+
+// String Functions
+.ancestor > child {
+  font-family: quote($string: "arial");
+  font-family: unquote($string: "ariral");
+  font-family: to-upper-case($string: "duc");
+  font-family: to-lower-case($string: "MANH");
+  font-family: str-length("Manh");
+  font-family: str-index($string: "Duc", $substring: "u");
+  font-family: str-insert($string: "Duc", $insert:"X" , $index: 3);
+}
+
+
+.container{
+    width: 600px;
+    height: 100px;
+    background: darken($color: skyblue, $amount: 30);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+    .c1{
+        width: 50%;
+        height: 50%;
+
+
+        background: lighten($color: blue, $amount: 10);
+    }
+}
+
+
+// LIST
+$list: 20px 30px 10px;
+
+.selector{
+    padding: length($list);
+    padding: append($list,60px);
+    padding: nth($list, 3 );
+    padding: set-nth($list: $list, $n: 2, $value:31 );
+
+}
+
+
+// MAP
+$font-weights: (
+    "regular":400,
+    "medium":500,
+    "bold":700
+);
+
+.selector{
+    font-weight: map-get($map: $font-weights, $key:"medium" );
+    font-weight: map-keys($map: $font-weights);
+    font-family: map-values($map: $font-weights);
+    font-family: map-has-key($map: $font-weights, $key:"Medium" );
+}

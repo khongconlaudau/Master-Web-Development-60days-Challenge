@@ -1,0 +1,45 @@
+.selector {
+  padding: 80px;
+  padding: 20px;
+  padding: 73;
+  padding: "rem";
+  padding: true;
+}
+
+.ancestor > child {
+  font-family: "arial";
+  font-family: ariral;
+  font-family: "DUC";
+  font-family: "manh";
+  font-family: 4;
+  font-family: 2;
+  font-family: "DuXc";
+}
+
+.container {
+  width: 600px;
+  height: 100px;
+  background: #1f8dba;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container .c1 {
+  width: 50%;
+  height: 50%;
+  background: #3333ff;
+}
+
+.selector {
+  padding: 3;
+  padding: 20px 30px 10px 60px;
+  padding: 10px;
+  padding: 20px 31 10px;
+}
+
+.selector {
+  font-weight: 500;
+  font-weight: "regular", "medium", "bold";
+  font-family: 400, 500, 700;
+  font-family: false;
+}/*# sourceMappingURL=style.css.map */

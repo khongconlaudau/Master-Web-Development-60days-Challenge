@@ -1,0 +1,12 @@
+.container p:not([title]){
+    color: red;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.c1 a:not([href="https://fontawesome.com/search"]){
+    color: orange;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: x-large;
+}

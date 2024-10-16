@@ -1,0 +1,11 @@
+.lm-btn, .download-btn {
+  padding: 10px 20px;
+  border: none;
+  background-color: skyblue;
+  border-radius: 50px;
+  color: white;
+}
+
+.download-btn {
+  background-color: brown;
+}/*# sourceMappingURL=style.css.map */

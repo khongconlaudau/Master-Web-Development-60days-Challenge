@@ -1,0 +1,7 @@
+header :is(h1, h2, h4){
+    color: red;
+}
+
+:is(section, article) :is(h1, h2, h4){
+    color: #7c3939;
+}
